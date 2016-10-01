@@ -70,10 +70,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKHOLSQF
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RGBKeyFob\Design Rule Check - RGBKeyFob - PCB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
